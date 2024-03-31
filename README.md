@@ -21,5 +21,7 @@
 > 구현 홈페이지
 -----------
 ![image](https://github.com/jyun23/college/assets/101920588/51955ff1-4721-4cfe-b36b-afbc84e75a86)
+--
 ![image](https://github.com/jyun23/college/assets/101920588/7eb8a198-f6ca-4244-85a5-45b9c93a0a49)
+--
 ![image](https://github.com/jyun23/college/assets/101920588/fa632125-bb9d-40c2-a942-3f25639ef20d)
