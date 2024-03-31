@@ -1,4 +1,4 @@
-# Project_college(Web)
+# Project_Karina college(Web)
 
 > Main part  
 -----------
